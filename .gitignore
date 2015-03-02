@@ -1,0 +1,5 @@
+.preview*
+.metadata*
+*.sublime-workspace
+.DS_Store
+._*
