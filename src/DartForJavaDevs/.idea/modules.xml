@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DartForJavaDevs.iml" filepath="$PROJECT_DIR$/DartForJavaDevs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GameOfLife/GameOfLife.iml" filepath="$PROJECT_DIR$/GameOfLife/GameOfLife.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorldConsole/HelloWorldConsole.iml" filepath="$PROJECT_DIR$/HelloWorldConsole/HelloWorldConsole.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StockQuoteClassesConsole/StockQuoteClassesConsole.iml" filepath="$PROJECT_DIR$/StockQuoteClassesConsole/StockQuoteClassesConsole.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StockQuoteConsole/StockQuoteConsole.iml" filepath="$PROJECT_DIR$/StockQuoteConsole/StockQuoteConsole.iml" />
+    </modules>
+  </component>
+</project>
