@@ -1,0 +1,190 @@
+= Web Development with Dart
+© 2014 Farata Systems LLC. <training@faratasystems.com>
+:icons: font
+:last-update-label!:
+:toc:
+
+
+== icon:list[] Outline
+
+Part 1. Introduction to Dart::
+- *Unit 1.* Getting started with Dart. Dart language features. Basic tools.
+- *Unit 2.* Dart project code organization. Dart libraries. Dependency management. Creating custom pub packages.
+- *Unit 3.* Web applications development with `dart:html` package and Polymer.dart. Web Components. Polymer Elements.
+
+Part 2. AngularDart::
+- *Unit 4.* AngularDart part 1. Modules, dependency injection, components, routing, formatters, decorators. Two-way data binding.
+- *Unit 5.* AngularDart part 2. Testing AngularDart apps. Optimizing and deploying AngularDart apps.
+- *Unit 6.* JavaScript interoperability. Packages `dart:js` and `js`. Wrapping Twitter Bootstrap components into AngularDart decorators/components.
+
+Part 3. Advanced Dart::
+- *Unit 7.* Concurrent programming with Dart. Event loop, micro tasks. Futures, async/await. Isolates.
+- *Unit 8.* Dart outside of the browser. Command line Dart programs. Server-side Web applications.
+- *Unit 9.* Static and dynamic Dart code introspection (analyzer package and mirrors). Transformers. Writing custom transformers.
+
+
+== icon:pencil-square-o[] Notes
+
+=== Unit 1
+* What is Dart? Why Dart? Brief history of the language.
+* Discuss Dart ecosystem (language + tools + resources).
+* Compare Dart with JavaScript (high-level comparison rather than feature-by-feature).
+
+.Walkthrough 1
+****
+* Getting started with Dart Editor (should be downloaded before the class)
+* Quick overview of the Dart Editor (how to create new files, how to run code, how to see output, debugging?)
+* Dart Hello World program (main function, use style as close to Java as possible)
+****
+
+* Language features
+** Optional type annotations
+** var, final, const
+** null is default value
+** Top-level functions
+
+* OOP with Dart (topics below arranged in the order from more familiar to less familiar for Java devs)
+** Classes
+** Fields, getters/setters, methods
+** Static members
+** Class members access levels.
+** Interfaces (implicitly created)
+** Inheritance
+** Abstract classes
+** Overriding
+** NO overloading
+** Constructors
+** Named constructors
+** Factory constructors
+** Instantiating abstract classes uses factory constructors (can be considered as a partial replacement for DI).
+** Instantiating objects.
+** Initializing objects using cascading operator.
+** Enums
+
+* FP with Dart
+** Arrow functions
+** Higher-order functions (as param, as return value)
+** Closures
+
+=== Unit 2
+
+* Pub tool and pub packages.
+* Application packages vs library packages.
+* Project layout conventions.
+* pubspec.yaml
+* Dart libraries. Importing and exporting libraries.
+* Dependency management with pub.
+* Creating and publishing custom pub packages.
+
+=== Unit 3
+
+* Overview of available options
+* dart:html
+
+.Walkthrough 1
+****
+* Create new application package.
+* Add dependency to `browser` package.
+* Implement simple editable form that allows creating products and table that displays created products using dart:html package.
+****
+
+* Web Components
+** Shadow DOM
+** HTML Imports
+** Templates
+** Custom Elements
+
+.Walkthrough 2
+****
+* Create new application package.
+* Add dependency to `web_components` package.
+* Create simple web component using standard APIs
+****
+
+* Polymer
+* Polymer.dart
+* Polymer Elements
+
+.Walkthrough 3
+****
+* Create new application package.
+* Add dependency to `web_components` package.
+* Create simple web component using standard APIs
+****
+
+* Tools to build/launch/debug Dart web apps.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+////
+
+== icon:book[] Summary
+
+== icon:list[] Outline
+
+[upperroman]
+. Introduction into Dart
+[arabic]
+.. What is Dart?
+.. Why Dart?
+.. Getting Started with Dart
+.. Tools
+
+. Web Applications Development
+[arabic]
+.. Overview of Available Options
+*** Polymer
+*** AngularDart
+*** Other Web-frameworks
+
+.. AngularDart
+
+.. Polymer
+
+. Advanced Topcis
+[arabic]
+.. Dart outside of the browser
+.. Async features: event loop, futures, streams, async/await, isolates (“multi-threading”)
+.. Mirrors (reflection)
+.. Transformers (static code transformation)
+.. Creating custom packages
+.. JavaScript interop
+////
