@@ -3,10 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DartForJavaDevs.iml" filepath="$PROJECT_DIR$/DartForJavaDevs.iml" />
-      <module fileurl="file://$PROJECT_DIR$/GameOfLife/GameOfLife.iml" filepath="$PROJECT_DIR$/GameOfLife/GameOfLife.iml" />
       <module fileurl="file://$PROJECT_DIR$/HelloWorldConsole/HelloWorldConsole.iml" filepath="$PROJECT_DIR$/HelloWorldConsole/HelloWorldConsole.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorldWeb/HelloWorldWeb.iml" filepath="$PROJECT_DIR$/HelloWorldWeb/HelloWorldWeb.iml" />
       <module fileurl="file://$PROJECT_DIR$/StockQuoteClassesConsole/StockQuoteClassesConsole.iml" filepath="$PROJECT_DIR$/StockQuoteClassesConsole/StockQuoteClassesConsole.iml" />
       <module fileurl="file://$PROJECT_DIR$/StockQuoteConsole/StockQuoteConsole.iml" filepath="$PROJECT_DIR$/StockQuoteConsole/StockQuoteConsole.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StockQuoteSimpleWeb/StockQuoteSimpleWeb.iml" filepath="$PROJECT_DIR$/StockQuoteSimpleWeb/StockQuoteSimpleWeb.iml" />
     </modules>
   </component>
 </project>

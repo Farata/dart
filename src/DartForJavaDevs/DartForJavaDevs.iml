@@ -2,7 +2,11 @@
 <module type="WEB_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/StockQuoteDart2JS/bin/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/StockQuoteDart2JS/packages/StockQuoteConsole" />
+      <excludeFolder url="file://$MODULE_DIR$/StockQuoteDart2JS/test/packages" />
+    </content>
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Dart SDK (2)" level="application" />
   </component>
