@@ -15,7 +15,7 @@ class StockQuoteGenerator {
 
     if (_supportedSymbols.contains(symbol)) {
 
-      stock.price = rand.nextDouble();
+      stock.price = rand.nextDouble()*100;
     }
       return stock;
     }

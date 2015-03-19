@@ -8,3 +8,6 @@ environment:
   sdk: '>=1.0.0 <2.0.0'
 dependencies:
   browser: any
+transformers:
+- $dart2js:
+    commandLineOptions: [--minify, --show-package-warnings]

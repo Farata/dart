@@ -1,6 +1,3 @@
-// Copyright (c) 2015, <your name>. All rights reserved. Use of this source code
-// is governed by a BSD-style license that can be found in the LICENSE file.
-
 import 'dart:html';
 import 'dart:convert';
 import 'package:stock_quote_web_json/stock.dart';
@@ -20,38 +17,31 @@ void main() {
   priceQuote = querySelector('#priceQuote');
 
 
-  var list_el = querySelector('#yesterdaysPrices');
-
-  HttpRequest.getString('data/stocks111.json')
-             .then(populateYesterdayPrices)
-             .catchError((Error err) {
-                 print(err.toString());
-              });
-
-  doStuff()
-     .then(callbackForSuccess)
-     .catchError(callBackForError);
-
-}
-
-void callbackForSuccess() {
-  //...
-}
-
-void callbackForError(Error error){
-  // ...
+  HttpRequest.getString('data/stocks.json')
+  .then(populateYesterdayPrices)
+  .catchError((err) {
+    print("Error while retrieving JSON file with stocks: ${err.target.responseText}");
+  });
 }
 
 void populateYesterdayPrices(String responseText){
 
-    var list = JSON.decode(responseText);
+   List listOfStocks = JSON.decode(responseText);
+
+   UListElement listYesterdayHtml = querySelector('#yesterdaysPrices');
+
+    listOfStocks.forEach((stock){
+     listYesterdayHtml.innerHtml +=
+        '''<li>${stock['symbol']}:
+           \$${stock['price'].toStringAsFixed(2)}</li>
+        ''';
+    });
     var i=1;
 }
 
-
 void showPrice(Event e){
   Stock stock = generator.getQuote(enteredSymbol.value);
-  priceQuote.text = stock.price.toString();
+  priceQuote.text = "\$" + stock.price.toStringAsFixed(2);
 }
 
 

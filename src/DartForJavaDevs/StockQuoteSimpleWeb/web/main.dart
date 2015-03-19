@@ -22,7 +22,7 @@ void main() {
 
 void showPrice(Event e){
   Stock stock = generator.getQuote(enteredSymbol.value);
-  priceQuote.text = stock.price.toString();
+  priceQuote.text = stock.price.toStringAsFixed(2);
 }
 
 
