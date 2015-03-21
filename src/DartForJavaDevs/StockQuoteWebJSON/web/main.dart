@@ -6,7 +6,7 @@ import 'package:stock_quote_web_json/stock_quote_generator.dart';
 StockQuoteGenerator generator = new StockQuoteGenerator();
 
 InputElement enteredSymbol;
-LabelElement priceQuote;
+SpanElement priceQuote;
 
 void main() {
 

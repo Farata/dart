@@ -8,7 +8,8 @@ import 'package:stock_quote_simple_web/stock_quote_generator.dart';
 StockQuoteGenerator generator = new StockQuoteGenerator();
 
 InputElement enteredSymbol;
-LabelElement priceQuote;
+SpanElement priceQuote;
+
 
 void main() {
 
@@ -22,7 +23,7 @@ void main() {
 
 void showPrice(Event e){
   Stock stock = generator.getQuote(enteredSymbol.value);
-  priceQuote.text = stock.price.toStringAsFixed(2);
+  priceQuote.text = "\$${stock.price.toStringAsFixed(2)}";
 }
 
 
