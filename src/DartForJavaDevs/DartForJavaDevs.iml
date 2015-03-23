@@ -6,6 +6,11 @@
       <excludeFolder url="file://$MODULE_DIR$/StockQuoteDart2JS/bin/packages" />
       <excludeFolder url="file://$MODULE_DIR$/StockQuoteDart2JS/packages/StockQuoteConsole" />
       <excludeFolder url="file://$MODULE_DIR$/StockQuoteDart2JS/test/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/StockQuoteFutureCompleter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/StockQuoteFutureCompleter/packages/stock_quote_future_completer" />
+      <excludeFolder url="file://$MODULE_DIR$/StockQuoteFutureCompleter/web/data/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/StockQuoteFutureCompleter/web/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/StockQuoteFutureCompleter/web/styles/packages" />
       <excludeFolder url="file://$MODULE_DIR$/StockQuoteWebJSON/build" />
       <excludeFolder url="file://$MODULE_DIR$/StockQuoteWebJSON/packages/stock_quote_web_json" />
       <excludeFolder url="file://$MODULE_DIR$/StockQuoteWebJSON/web/data/packages" />

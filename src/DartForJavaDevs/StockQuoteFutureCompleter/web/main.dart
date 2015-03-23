@@ -1,7 +1,7 @@
 import 'dart:html';
 import  'dart:async';
-import 'package:stock_quote_simple_web/stock.dart';
-import 'package:stock_quote_simple_web/stock_quote_generator.dart';
+import 'package:stock_quote_future_completer/stock.dart';
+import 'package:stock_quote_future_completer/stock_quote_generator.dart';
 
 StockQuoteGenerator generator = new StockQuoteGenerator();
 
@@ -12,11 +12,11 @@ DivElement log;
 
 main() {
 
-  enteredSymbol = querySelector("#enteredSymbol");
-  enteredSymbol.onChange.listen(showPrice);
+  enteredSymbol = querySelector("#enteredSymbol")
+                  ..onChange.listen(showPrice);
 
-  readButton = querySelector("#slowOperationButton");
-  readButton.onClick.listen(clickHandler);
+  readButton = querySelector("#slowOperationButton")
+               ..onClick.listen(clickHandler);
 
   priceQuote = querySelector('#priceQuote');
 
@@ -28,7 +28,6 @@ clickHandler(event){
    // Get some news on the entered stock
    var future = slowOperation(enteredSymbol.value);
 
-   log.innerHtml+="Called slowOperation ${new DateTime.now()} <br>";
 
    // The clickHandler returns without waiting
    future.then((result){
@@ -36,6 +35,10 @@ clickHandler(event){
      log.innerHtml+="$result ${new DateTime.now()}";
 
    });
+
+   // The next line is executed before future.then()
+   log.innerHtml+="Called slowOperation ${new DateTime.now()} <br>";
+
 }
 
 slowOperation(stockSymbol){

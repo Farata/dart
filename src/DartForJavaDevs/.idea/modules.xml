@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/DartForJavaDevs.iml" filepath="$PROJECT_DIR$/DartForJavaDevs.iml" />
       <module fileurl="file://$PROJECT_DIR$/HelloWorldConsole/HelloWorldConsole.iml" filepath="$PROJECT_DIR$/HelloWorldConsole/HelloWorldConsole.iml" />
       <module fileurl="file://$PROJECT_DIR$/HelloWorldWeb/HelloWorldWeb.iml" filepath="$PROJECT_DIR$/HelloWorldWeb/HelloWorldWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IsolatesConsole/IsolatesConsole.iml" filepath="$PROJECT_DIR$/IsolatesConsole/IsolatesConsole.iml" />
       <module fileurl="file://$PROJECT_DIR$/StockQuoteClassesConsole/StockQuoteClassesConsole.iml" filepath="$PROJECT_DIR$/StockQuoteClassesConsole/StockQuoteClassesConsole.iml" />
       <module fileurl="file://$PROJECT_DIR$/StockQuoteConsole/StockQuoteConsole.iml" filepath="$PROJECT_DIR$/StockQuoteConsole/StockQuoteConsole.iml" />
       <module fileurl="file://$PROJECT_DIR$/StockQuoteSimpleWeb/StockQuoteSimpleWeb.iml" filepath="$PROJECT_DIR$/StockQuoteSimpleWeb/StockQuoteSimpleWeb.iml" />

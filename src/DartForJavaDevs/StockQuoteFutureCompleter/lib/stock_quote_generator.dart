@@ -1,7 +1,7 @@
 library stock_quote;
 
 import 'dart:math';
-import 'package:stock_quote_simple_web/stock.dart';
+import 'package:stock_quote_future_completer/stock.dart';
 
 class StockQuoteGenerator {
 

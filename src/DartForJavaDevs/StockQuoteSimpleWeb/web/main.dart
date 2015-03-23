@@ -13,9 +13,8 @@ SpanElement priceQuote;
 
 void main() {
 
-  enteredSymbol = querySelector("#enteredSymbol");
-
-  enteredSymbol.onChange.listen(showPrice);
+  enteredSymbol = querySelector("#enteredSymbol")
+                  ..onChange.listen(showPrice);
 
   priceQuote = querySelector('#priceQuote');
 

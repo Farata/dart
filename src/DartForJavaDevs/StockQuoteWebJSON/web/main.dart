@@ -10,9 +10,8 @@ SpanElement priceQuote;
 
 void main() {
 
-  enteredSymbol = querySelector("#enteredSymbol");
-
-  enteredSymbol.onChange.listen(showPrice);
+  enteredSymbol = querySelector("#enteredSymbol")
+                  ..onChange.listen(showPrice);
 
   priceQuote = querySelector('#priceQuote');
 
@@ -31,7 +30,8 @@ void populateYesterdayPrices(String responseText){
    UListElement listYesterdayHtml = querySelector('#yesterdaysPrices');
 
     listOfStocks.forEach((stock){
-     listYesterdayHtml.innerHtml +=
+
+       listYesterdayHtml.innerHtml +=
         '''<li>${stock['symbol']}:
            \$${stock['price'].toStringAsFixed(2)}</li>
         ''';
