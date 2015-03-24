@@ -18,6 +18,13 @@ void main() {
 
   priceQuote = querySelector('#priceQuote');
 
+  querySelector('#abutton') // Get an object.
+    ..text = 'Confirm'   // Use its members.
+    ..classes.add('important')
+    ..onClick.listen((e) => window.alert('Confirmed!'));
+
+
+
 }
 
 void showPrice(Event e){
