@@ -15,7 +15,7 @@ String getQuote(String symbol){
 
      return rand.nextDouble().toString();
   } else{
-      return "Invalid symbol $symbol use one of these $supportedSymbols.toString()" ;
+      return "Invalid symbol $symbol. Use one of these ${supportedSymbols.toString()}" ;
   }
 }
 
