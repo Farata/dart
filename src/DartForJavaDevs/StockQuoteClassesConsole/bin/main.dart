@@ -28,7 +28,7 @@ main(List<String> args) {
 
     Stock stock = StockQuoteGenerator.getQuote(symbol);
     if (stock.price == null) {
-      print("Invalid stock $symbol. Price quotes are available only for $StockQuoteGenerator._supportedSymbols");
+      print("Invalid stock $symbol. Price quotes are available only for ${StockQuoteGenerator._supportedSymbols}");
     } else {
       print('The price of ${stock.symbol} is \$${stock.price}');
     }

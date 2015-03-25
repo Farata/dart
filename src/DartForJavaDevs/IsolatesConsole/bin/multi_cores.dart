@@ -41,8 +41,6 @@ keepTheCoreBusy(SendPort sendPort) {
 
   sendPort.send(receivePort.sendPort); // will data from main isolate via this port
 
-
-
   receivePort.listen((msg) {
     var rand = new Random();
 

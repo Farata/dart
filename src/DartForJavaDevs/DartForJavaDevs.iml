@@ -11,6 +11,10 @@
       <excludeFolder url="file://$MODULE_DIR$/StockQuoteFutureCompleter/web/data/packages" />
       <excludeFolder url="file://$MODULE_DIR$/StockQuoteFutureCompleter/web/packages" />
       <excludeFolder url="file://$MODULE_DIR$/StockQuoteFutureCompleter/web/styles/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/StockQuoteIsolates/packages/stock_quote_isolates" />
+      <excludeFolder url="file://$MODULE_DIR$/StockQuoteIsolates/web/data/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/StockQuoteIsolates/web/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/StockQuoteIsolates/web/styles/packages" />
       <excludeFolder url="file://$MODULE_DIR$/StockQuoteWebJSON/build" />
       <excludeFolder url="file://$MODULE_DIR$/StockQuoteWebJSON/packages/stock_quote_web_json" />
       <excludeFolder url="file://$MODULE_DIR$/StockQuoteWebJSON/web/data/packages" />

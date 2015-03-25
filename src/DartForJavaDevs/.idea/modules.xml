@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/StockQuoteClassesConsole/StockQuoteClassesConsole.iml" filepath="$PROJECT_DIR$/StockQuoteClassesConsole/StockQuoteClassesConsole.iml" />
       <module fileurl="file://$PROJECT_DIR$/StockQuoteConsole/StockQuoteConsole.iml" filepath="$PROJECT_DIR$/StockQuoteConsole/StockQuoteConsole.iml" />
       <module fileurl="file://$PROJECT_DIR$/StockQuoteSimpleWeb/StockQuoteSimpleWeb.iml" filepath="$PROJECT_DIR$/StockQuoteSimpleWeb/StockQuoteSimpleWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TradingMixins/TradingMixins.iml" filepath="$PROJECT_DIR$/TradingMixins/TradingMixins.iml" />
     </modules>
   </component>
 </project>
