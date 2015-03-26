@@ -7,6 +7,7 @@ StockQuoteGenerator generator = new StockQuoteGenerator();
 
 InputElement enteredSymbol;
 SpanElement priceQuote;
+UListElement listYesterdayHtml;
 
 void main() {
 
@@ -15,11 +16,16 @@ void main() {
 
   priceQuote = querySelector('#priceQuote');
 
+  listYesterdayHtml = querySelector('#yesterdaysPrices');
 
+  // Performing an AJAX call with HTTP GET
   HttpRequest.getString('data/stocks.json')
-  .then(populateYesterdayPrices)
-  .catchError((err) {
-    print("Error while retrieving JSON file with stocks: ${err.target.responseText}");
+          .then(populateYesterdayPrices)
+          .catchError((err) {
+             listYesterdayHtml.innerHtml +='''Error while retrieving JSON file with stocks:
+                                              ${err.target.responseText}
+                                              ''';
+
   });
 }
 
@@ -27,7 +33,7 @@ void populateYesterdayPrices(String responseText){
 
    List listOfStocks = JSON.decode(responseText);
 
-   UListElement listYesterdayHtml = querySelector('#yesterdaysPrices');
+
 
     listOfStocks.forEach((stock){
 
@@ -36,7 +42,7 @@ void populateYesterdayPrices(String responseText){
            \$${stock['price'].toStringAsFixed(2)}</li>
         ''';
     });
-    var i=1;
+
 }
 
 void showPrice(Event e){

@@ -10,7 +10,6 @@ StockQuoteGenerator generator = new StockQuoteGenerator();
 InputElement enteredSymbol;
 SpanElement priceQuote;
 
-
 void main() {
 
   enteredSymbol = querySelector("#enteredSymbol")
