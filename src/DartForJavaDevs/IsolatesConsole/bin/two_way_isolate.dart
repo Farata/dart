@@ -43,8 +43,8 @@ getStockNews(SendPort sendPort){
 
        SendPort replyTo = message[1];
 
-      // Emulate an operation that takes 10 sec; then send the result
-       new Timer(new Duration(seconds:10), (){
+      // Emulate an operation that takes 5 sec; then send the result
+       new Timer(new Duration(seconds:5), (){
           replyTo.send("Time to buy $stockSymbol!" );
 
        });

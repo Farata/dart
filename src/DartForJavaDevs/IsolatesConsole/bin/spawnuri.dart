@@ -10,7 +10,7 @@ main() {
 
   remote
         .then((_) => recievingPort.first)
-        .then((msg) {
-           print("The main isolate got: $msg");
+        .then((message) {
+           print("The main isolate got: $message");
         });
 }

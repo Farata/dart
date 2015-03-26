@@ -39,12 +39,13 @@ keepTheCoreBusy(SendPort sendPort) {
 
   ReceivePort receivePort = new ReceivePort();
 
-  sendPort.send(receivePort.sendPort); // will data from main isolate via this port
+  // Let the main isolate know where to send its data
+  sendPort.send(receivePort.sendPort);
 
-  receivePort.listen((msg) {
+  receivePort.listen((message) {
     var rand = new Random();
 
-    var iterations = rand.nextInt(90000000);
+    var iterations = rand.nextInt(80000000);
 
     var dummy;
 
@@ -53,7 +54,7 @@ keepTheCoreBusy(SendPort sendPort) {
         dummy="a $i";
     }
 
-    sendPort.send("$msg: here's the dummy: $dummy");
+    sendPort.send("$message: here's the dummy: $dummy");
 
 
     receivePort.close();

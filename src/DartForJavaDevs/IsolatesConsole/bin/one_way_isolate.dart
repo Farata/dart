@@ -21,7 +21,7 @@ getMarketNews(SendPort sendPort){
   var dummy;
 
   // Emulate long computations
-  for (var i = 0; i < 200000000; ++i) {
+  for (var i = 0; i < 100000000; ++i) {
     dummy="a $i";
   }
 

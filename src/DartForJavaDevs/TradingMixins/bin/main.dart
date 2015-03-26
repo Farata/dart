@@ -6,6 +6,8 @@ main() {
 
   Bond bond = new Bond('Metropolitan Transportation');
 
-  bond.reportMuniBondTrade('Metropolitan Transportation');
+  bond.whereToReport = "SEC";      // from mixin
+
+  bond.reportMuniBondTrade('Metropolitan Transportation'); // from mixin
 
 }
