@@ -31,23 +31,22 @@ clickHandler(event){
 
    // The clickHandler returns without waiting
    future.then((result){
-     log.innerHtml+="I'm back from the future!</br>";
-     log.innerHtml+="$result ${new DateTime.now()}";
-
+                  log.innerHtml+="I'm back from the future!</br>";
+                  log.innerHtml+="$result ${new DateTime.now()}";
    });
 
-   // The next line is executed before future.then()
+   // The next line is executed before the above future.then()
    log.innerHtml+="Called slowOperation ${new DateTime.now()} <br>";
-
 }
 
 slowOperation(stockSymbol){
   var completer = new Completer<String>();
 
-  // Emulate an operation that takes 10 sec
-  new Timer(new Duration(seconds:10), (){
-    completer.complete("$stockSymbol is a great investment!" ); // return the String
-  });
+  // Emulate a long running operation
+  // by using Future.delayed constructor (the function will run in 10 sec)
+  new Future.delayed(const Duration(seconds: 10), () {
+    completer.complete("$stockSymbol is a great investment!"); // returns the String
+  });                                                          // could add .catchError()
 
   return completer.future;
 }

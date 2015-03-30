@@ -19,11 +19,11 @@ void main() {
   listYesterdayHtml = querySelector('#yesterdaysPrices');
 
   // Performing an AJAX call with HTTP GET
-  HttpRequest.getString('data/stocks.json')
+  HttpRequest.getString('data/stocks99999.json')
           .then(populateYesterdayPrices)
           .catchError((err) {
-             listYesterdayHtml.innerHtml +='''Error while retrieving JSON file with stocks:
-                                              ${err.target.responseText}
+             listYesterdayHtml.innerHtml +='''<li>Error while retrieving JSON file with stocks:
+                                              ${err.target.responseText}</li>
                                               ''';
 
   });

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+
+
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>StockQuoteSimpleWeb</title>
+
+    <link rel="stylesheet" href="styles/main.css">
+</head>
+
+<body>
+  Enter Symbol:
+  <input id="enteredSymbol" type="text" placeholder="AAPL,IBM,or MSFT">
+
+  <span id="priceQuote"></span>
+
+  <div>
+  <input id="slowOperationButton" type="button" value="Run Slow Operation"
+          class="btn"/>
+  </div>
+
+  <div id="log">
+
+  </div>
+
+<script type="application/dart" src="main.dart"></script>
+<script data-pub-inline src="packages/browser/dart.js"></script>
+</body>
+</html>
