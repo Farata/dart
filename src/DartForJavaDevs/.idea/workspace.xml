@@ -80,8 +80,8 @@
       <file leaf-file-name="main.dart" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/StockQuoteAsyncAwait/web/main.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5532995">
-              <caret line="35" column="2" selection-start-line="35" selection-start-column="2" selection-end-line="35" selection-end-column="2" />
+            <state vertical-scroll-proportion="0.8392555">
+              <caret line="31" column="22" selection-start-line="31" selection-start-column="2" selection-end-line="31" selection-end-column="22" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -734,12 +734,12 @@
       <workItem from="1427226745389" duration="56000" />
       <workItem from="1427226823206" duration="25477000" />
       <workItem from="1427635140635" duration="541000" />
-      <workItem from="1427745870958" duration="2673000" />
+      <workItem from="1427745870958" duration="2956000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="120385000" />
+    <option name="totallyTimeSpent" value="120668000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -1216,8 +1216,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/StockQuoteAsyncAwait/web/main.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5532995">
-          <caret line="35" column="2" selection-start-line="35" selection-start-column="2" selection-end-line="35" selection-end-column="2" />
+        <state vertical-scroll-proportion="0.8392555">
+          <caret line="31" column="22" selection-start-line="31" selection-start-column="2" selection-end-line="31" selection-end-column="22" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
