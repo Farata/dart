@@ -27,28 +27,48 @@ clickHandler(event) async {
 
    // Get some news on the entered stock
 
-  log.innerHtml+="Calling slowOperation ${new DateTime.now()} <br>";
+  log.innerHtml+="Calling two slowOperations ${new DateTime.now()} <br>";
 
-  var result = await slowOperation(enteredSymbol.value);
+  var result1 = await slowOperation1(enteredSymbol.value);  // 7 sec
 
-     log.innerHtml+="Awaiting is over!</br>";
-     log.innerHtml+="$result ${new DateTime.now()}";
+  var result2 = await slowOperation2(enteredSymbol.value);  // 3 sec
+
+  log.innerHtml+="Awaiting is over!</br>";      // total time 10 sec
+
+  log.innerHtml+="$result1 ${new DateTime.now()}  <br>";
+  log.innerHtml+="$result2 ${new DateTime.now()}  <br>";
 
 }
 
-slowOperation(stockSymbol) {
+slowOperation1(stockSymbol) async {
 
   var completer = new Completer<String>();
 
   // Emulate a long running operation
-  // by using Future.delayed constructor (the function will run in 10 sec)
-  new Future.delayed(const Duration(seconds: 10), () {
+  // by using Future.delayed constructor (the function will run in 7 sec)
+  new Future.delayed(const Duration(seconds: 7), () {
     completer.complete("$stockSymbol is a great investment!"); // returns the String
   });                                                          // could add .catchError()
 
   return completer.future;
 
 }
+
+slowOperation2(stockSymbol) {
+
+  var completer = new Completer<String>();
+
+  // Emulate a long running operation
+  // by using Future.delayed constructor (the function will run in 3 sec)
+  new Future.delayed(const Duration(seconds: 3), () {
+    completer.complete(" The targe price of $stockSymbol is a 200!");
+  });
+
+  return completer.future;
+
+}
+
+
 
 showPrice(event){
   Stock stock = generator.getQuote(enteredSymbol.value);
