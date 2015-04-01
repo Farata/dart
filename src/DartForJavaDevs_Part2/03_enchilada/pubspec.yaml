@@ -1,0 +1,7 @@
+name: enchilada
+
+dependencies:
+  logging: any
+
+dev_dependencies:
+  unittest: any

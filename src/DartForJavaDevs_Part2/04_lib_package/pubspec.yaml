@@ -1,0 +1,5 @@
+name: lib_package
+version: 0.0.1
+
+dependecnies:
+  logging: any
