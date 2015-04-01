@@ -1,5 +1,4 @@
 import 'package:logging/logging.dart';
-import 'package:02_dart_package/lib.dart';
 
 main() {
   Logger.root.onRecord.listen((record) {
