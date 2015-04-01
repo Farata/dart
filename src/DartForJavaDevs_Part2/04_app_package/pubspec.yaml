@@ -1,0 +1,7 @@
+name: app_package
+version: 0.0.1
+
+dependencies:
+  logging: any
+  lib_package:
+    path: ../04_lib_package
