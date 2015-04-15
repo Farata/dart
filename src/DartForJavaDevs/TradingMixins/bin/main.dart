@@ -1,4 +1,4 @@
-import 'package:TradingMixins/trading_mixins.dart';
+import 'package:trading_mixins/trading_mixins.dart';
 
 main() {
 

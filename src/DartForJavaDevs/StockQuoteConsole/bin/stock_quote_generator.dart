@@ -1,6 +1,3 @@
-// Copyright (c) 2015, <your name>. All rights reserved. Use of this source code
-// is governed by a BSD-style license that can be found in the LICENSE file.
-
 import  'dart:math';
 import 'package:args/args.dart';
 
@@ -19,7 +16,6 @@ String getQuote(String symbol){
   }
 }
 
-
 main(List<String> args) {
 
   final parser = new ArgParser();
@@ -28,5 +24,4 @@ main(List<String> args) {
   List<String> symbol = argResults.rest;
 
   print('The price of ${symbol[0]} is ${getQuote(symbol[0])}');
-
 }

@@ -1,4 +1,4 @@
-name: StockQuoteConsole
+name: stock_quote_console
 version: 0.0.1
 description: A stock quote app
 environment:

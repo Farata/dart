@@ -27,7 +27,7 @@ clickHandler(event) async {
 
    // Get some news on the entered stock
 
-  log.innerHtml+="Calling two slowOperations ${new DateTime.now()} <br>";
+  log.innerHtml+="Calling two slowOperations (3 sec and 7 sec) ${new DateTime.now()} <br>";
 
   var result1 = await slowOperation1(enteredSymbol.value);  // 7 sec
 

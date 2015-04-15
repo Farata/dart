@@ -5,7 +5,8 @@ main() {
 
   ReceivePort mainIsolateReceivePort = new ReceivePort();
 
-  Future<Isolate> stockNewsIsolate =  Isolate.spawn(getStockNews,mainIsolateReceivePort.sendPort );
+  Future<Isolate> stockNewsIsolate =
+                         Isolate.spawn(getStockNews,mainIsolateReceivePort.sendPort );
 
   stockNewsIsolate
       .then((_)=> mainIsolateReceivePort.first)   // get the stock isolate's port
