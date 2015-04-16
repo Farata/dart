@@ -1,0 +1,4402 @@
+[
+{
+    "symbol": "IBM",
+    "price": 159.00
+  },
+  {
+    "symbol": "AAPL",
+    "price": 130.00
+  },
+  {
+    "symbol": "MSFT",
+    "price": 42.50
+  },
+  {
+    "symbol": "IBM",
+    "price": 159.00
+  },
+  {
+    "symbol": "AAPL",
+    "price": 130.00
+  },
+  {
+    "symbol": "MSFT",
+    "price": 42.50
+  },
+  {
+    "symbol": "IBM",
+    "price": 159.00
+  },
+  {
+    "symbol": "AAPL",
+    "price": 130.00
+  },
+  {
+    "symbol": "MSFT",
+    "price": 42.50
+  },
+  {
+    "symbol": "IBM",
+    "price": 159.00
+  },
+  {
+    "symbol": "AAPL",
+    "price": 130.00
+  },
+  {
+    "symbol": "MSFT",
+    "price": 42.50
+  },
+  {
+    "symbol": "IBM",
+    "price": 159.00
+  },
+  {
+    "symbol": "AAPL",
+    "price": 130.00
+  },
+  {
+    "symbol": "MSFT",
+    "price": 42.50
+  },
+  {
+    "symbol": "IBM",
+    "price": 159.00
+  },
+  {
+    "symbol": "AAPL",
+    "price": 130.00
+  },
+  {
+    "symbol": "MSFT",
+    "price": 42.50
+  },
+  {
+    "symbol": "IBM",
+    "price": 159.00
+  },
+  {
+    "symbol": "AAPL",
+    "price": 130.00
+  },
+  {
+    "symbol": "MSFT",
+    "price": 42.50
+  },
+  {
+    "symbol": "IBM",
+    "price": 159.00
+  },
+  {
+    "symbol": "AAPL",
+    "price": 130.00
+  },
+  {
+    "symbol": "MSFT",
+    "price": 42.50
+  },
+  {
+    "symbol": "IBM",
+    "price": 159.00
+  },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ },
+ {
+ "symbol": "AAPL",
+ "price": 130.00
+ },
+ {
+ "symbol": "MSFT",
+ "price": 42.50
+ },
+ {
+ "symbol": "IBM",
+ "price": 159.00
+ }
+]

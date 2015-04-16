@@ -40,15 +40,14 @@ clickHandler(event){
 }
 
 slowOperation(stockSymbol){
-  var completer = new Completer<String>();
+
 
   // Emulate a long running operation
   // by using Future.delayed constructor (the function will run in 10 sec)
-  new Future.delayed(const Duration(seconds: 10), () {
-    completer.complete("$stockSymbol is a great investment!"); // returns the String
+  return new Future.delayed(const Duration(seconds: 10), () {
+     return "$stockSymbol is a great investment!"; // returns the String
   });                                                          // could add .catchError()
 
-  return completer.future;
 }
 
 showPrice(event){

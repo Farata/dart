@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>StockQuoteSimpleWeb</title>
+
+    <link rel="stylesheet" href="styles/main.css">
+</head>
+
+<body>
+  Enter Symbol:
+  <input id="enteredSymbol" type="text" placeholder="AAPL,IBM,or MSFT">
+
+  <span id="priceQuote"></span>
+
+  <div>
+  <input id="asyncHttpButton" type="button" value="Run Async+HttpRequest"
+          class="btn"/>
+  </div>
+
+  <div>
+  <input id="asyncLoopButton" type="button" value="Run Async+Loop"
+         class="btn"/>
+  </div>
+
+  <div>
+  <input id="isolateLoopButton" type="button" value="Run Isolate+Loop"
+         class="btn"/>
+  </div>
+
+
+  <div id="log"></div>
+
+  <div>
+
+  <h2>Yesterday's Prices</h2>
+
+  <ul id="yesterdaysPrices">
+
+  </ul>
+
+  </div>
+
+<script type="application/dart" src="main.dart"></script>
+<script data-pub-inline src="packages/browser/dart.js"></script>
+</body>
+</html>

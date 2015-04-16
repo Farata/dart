@@ -42,16 +42,24 @@ clickHandler(event) async {
 
 slowOperation1(stockSymbol) async {
 
-  var completer = new Completer<String>();
-
   // Emulate a long running operation
   // by using Future.delayed constructor (the function will run in 7 sec)
-  new Future.delayed(const Duration(seconds: 7), () {
-    completer.complete("$stockSymbol is a great investment!"); // returns the String
-  });                                                          // could add .catchError()
+// add a loop
 
-  return completer.future;
+  var dummy;
 
+  var list = new List.generate(80000000,(e)=> e );
+
+  list.forEach((i){dummy="a $i";});
+
+  // Emulate long running computations
+  /*
+  for (var i = 0; i < 80000000; ++i) {
+    dummy="a $i";
+  }i
+  */
+
+  return "$stockSymbol is a great investment!"; // returns the String
 }
 
 slowOperation2(stockSymbol) {

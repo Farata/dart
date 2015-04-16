@@ -34,8 +34,6 @@ void populateYesterdayPrices(String responseText){
 
    List listOfStocks = JSON.decode(responseText);
 
-
-
     listOfStocks.forEach((stock){
 
        listYesterdayHtml.innerHtml +=
