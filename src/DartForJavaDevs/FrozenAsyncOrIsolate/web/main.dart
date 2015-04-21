@@ -118,10 +118,12 @@ void populateYesterdayPrices(String responseText){
 
   List listOfStocks = JSON.decode(responseText);
 
+  int counter=0;
+
   listOfStocks.forEach((stock){
 
     listItem = new LIElement()
-               ..text= '''${stock['symbol']}::
+               ..text= '''${counter++} ${stock['symbol']}::
            \$${stock['price'].toStringAsFixed(2)}
         ''';
 
