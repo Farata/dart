@@ -3,14 +3,19 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/FrozenAsyncOrIsolate/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/FrozenAsyncOrIsolate/packages/stock_quote_async_await" />
+      <excludeFolder url="file://$MODULE_DIR$/FrozenAsyncOrIsolate/web/data/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/FrozenAsyncOrIsolate/web/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/FrozenAsyncOrIsolate/web/styles/packages" />
       <excludeFolder url="file://$MODULE_DIR$/StockQuoteDart2JS/bin/packages" />
       <excludeFolder url="file://$MODULE_DIR$/StockQuoteDart2JS/packages/StockQuoteConsole" />
       <excludeFolder url="file://$MODULE_DIR$/StockQuoteDart2JS/test/packages" />
-      <excludeFolder url="file://$MODULE_DIR$/StockQuoteFutureCompleter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/StockQuoteFuture/build" />
       <excludeFolder url="file://$MODULE_DIR$/StockQuoteFutureCompleter/packages/stock_quote_future_completer" />
       <excludeFolder url="file://$MODULE_DIR$/StockQuoteFutureCompleter/web/data/packages" />
-      <excludeFolder url="file://$MODULE_DIR$/StockQuoteFutureCompleter/web/packages" />
-      <excludeFolder url="file://$MODULE_DIR$/StockQuoteFutureCompleter/web/styles/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/StockQuoteFuture/web/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/StockQuoteFuture/web/styles/packages" />
       <excludeFolder url="file://$MODULE_DIR$/StockQuoteIsolates/packages/stock_quote_isolates" />
       <excludeFolder url="file://$MODULE_DIR$/StockQuoteIsolates/web/data/packages" />
       <excludeFolder url="file://$MODULE_DIR$/StockQuoteIsolates/web/packages" />

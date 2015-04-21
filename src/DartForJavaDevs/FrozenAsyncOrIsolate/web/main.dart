@@ -13,7 +13,7 @@ InputElement asyncLoopButton;
 InputElement asyncHttpButton;
 InputElement isolateLoopButton;
 DivElement log;
-UListElement listYesterdayHtml;
+DivElement listYesterdayDiv;
 
 main() {
 
@@ -24,8 +24,6 @@ main() {
   priceQuote = querySelector('#priceQuote');
 
   log = querySelector("#log");
-
-  listYesterdayHtml = querySelector('#yesterdaysPrices');
 
   // Buttons' handlers
 
@@ -94,40 +92,41 @@ isolateLoopButtonHandler(event) async {
 asyncButtonHandler(event) async {
 
   // Performing an AJAX call with HTTP GET
+  listYesterdayDiv = querySelector('#yesterdaysPricesDiv');
 
   HttpRequest.getString('data/stocks.json')
   .then(populateYesterdayPrices)
   .catchError((err) {
-    listYesterdayHtml.innerHtml +=
-    '''<li>Error while retrieving JSON file with stocks:
-                               ${err.target.responseText}</li>
+    listYesterdayDiv.innerHtml +=
+    '''<h2>Error while retrieving JSON file with stocks:
+                               ${err.target.responseText}</h2>
                  ''';
+
   });
-
-/*
-  var completer = new Completer<String>();
-
-  // Emulate a long running operation
-  // by using Future.delayed constructor (the function will run in 3 sec)
-  new Future.delayed(const Duration(seconds: 3), () {
-    completer.complete(" The targe price of $stockSymbol is a 200!");
-  });
-
-  return completer.future;
-
-*/
 }
 
 void populateYesterdayPrices(String responseText){
+
+
+  listYesterdayDiv.append(new Element.html("<h2>Yesterday's Prices</h2>"));
+
+  UListElement listYesterdayUL = new Element.ul();  // create an unordered list
+
+  listYesterdayDiv.append(listYesterdayUL);
+
+  LIElement listItem;
 
   List listOfStocks = JSON.decode(responseText);
 
   listOfStocks.forEach((stock){
 
-    listYesterdayHtml.innerHtml +=
-    '''<li>${stock['symbol']}:
-           \$${stock['price'].toStringAsFixed(2)}</li>
+    listItem = new LIElement()
+               ..text= '''${stock['symbol']}::
+           \$${stock['price'].toStringAsFixed(2)}
         ''';
+
+    listYesterdayUL.append(listItem);
+
   });
 }
 

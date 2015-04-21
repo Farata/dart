@@ -8,6 +8,7 @@ StockQuoteGenerator generator = new StockQuoteGenerator();
 InputElement enteredSymbol;
 SpanElement priceQuote;
 UListElement listYesterdayHtml;
+LIElement listItem;
 
 void main() {
 
@@ -26,21 +27,23 @@ void main() {
                  '''<li>Error while retrieving JSON file with stocks:
                                ${err.target.responseText}</li>
                  ''';
-
   });
 }
 
 void populateYesterdayPrices(String responseText){
 
-   List listOfStocks = JSON.decode(responseText);
+  List listOfStocks = JSON.decode(responseText);
 
-    listOfStocks.forEach((stock){
+  listOfStocks.forEach((stock){
 
-       listYesterdayHtml.innerHtml +=
-        '''<li>${stock['symbol']}:
-           \$${stock['price'].toStringAsFixed(2)}</li>
+    listItem = new LIElement()
+      ..text= '''${stock['symbol']}:
+           \$${stock['price'].toStringAsFixed(2)}
         ''';
-    });
+
+    listYesterdayHtml.append(listItem);
+
+  });
 
 }
 

@@ -16,31 +16,23 @@
 
   <div>
   <input id="asyncHttpButton" type="button" value="Run Async+HttpRequest"
-          class="btn"/>
+          class="btn"/>  Get yesterday's prices from a JSON file
   </div>
 
   <div>
   <input id="asyncLoopButton" type="button" value="Run Async+Loop"
-         class="btn"/>
+         class="btn"/>  The input field becomes frozen in Dart VM
   </div>
 
   <div>
   <input id="isolateLoopButton" type="button" value="Run Isolate+Loop"
-         class="btn"/>
+         class="btn"/>  The input field is not frozen
   </div>
 
 
   <div id="log"></div>
 
-  <div>
-
-  <h2>Yesterday's Prices</h2>
-
-  <ul id="yesterdaysPrices">
-
-  </ul>
-
-  </div>
+  <div id="yesterdaysPricesDiv"></div>
 
 <script type="application/dart" src="main.dart"></script>
 <script data-pub-inline src="packages/browser/dart.js"></script>
