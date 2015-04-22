@@ -41,13 +41,11 @@ clickHandler(event){
 
 slowOperation(stockSymbol){
 
-
   // Delay the execution by using Future.delayed constructor (the function will run in 10 sec)
-  // See FrozenAsyncOrIsolate that has better emulation of a slow operation
+  // See FrozenAsyncOrIsolate that has a better emulation of a slow operation
   return new Future.delayed(const Duration(seconds: 10), () {
      return "$stockSymbol is a great investment!"; // returns the String
   });                                              // could add .catchError() here
-
 }
 
 showPrice(event){
