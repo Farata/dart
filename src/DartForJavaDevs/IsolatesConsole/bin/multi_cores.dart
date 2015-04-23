@@ -6,7 +6,7 @@ main() {
 
   int coresCompleted = 0;
 
-  const NUMBER_OF_CORES = 8;
+  const NUMBER_OF_CORES = 4;
 
   ReceivePort receivePort = new ReceivePort();
 

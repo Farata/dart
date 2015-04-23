@@ -12,10 +12,12 @@
       <excludeFolder url="file://$MODULE_DIR$/StockQuoteDart2JS/packages/StockQuoteConsole" />
       <excludeFolder url="file://$MODULE_DIR$/StockQuoteDart2JS/test/packages" />
       <excludeFolder url="file://$MODULE_DIR$/StockQuoteFuture/build" />
-      <excludeFolder url="file://$MODULE_DIR$/StockQuoteFutureCompleter/packages/stock_quote_future_completer" />
-      <excludeFolder url="file://$MODULE_DIR$/StockQuoteFutureCompleter/web/data/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/StockQuoteFuture/packages/stock_quote_future_completer" />
+      <excludeFolder url="file://$MODULE_DIR$/StockQuoteFuture/web/data/packages" />
       <excludeFolder url="file://$MODULE_DIR$/StockQuoteFuture/web/packages" />
       <excludeFolder url="file://$MODULE_DIR$/StockQuoteFuture/web/styles/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/StockQuoteFutureCompleter/packages/stock_quote_future_completer" />
+      <excludeFolder url="file://$MODULE_DIR$/StockQuoteFutureCompleter/web/data/packages" />
       <excludeFolder url="file://$MODULE_DIR$/StockQuoteIsolates/packages/stock_quote_isolates" />
       <excludeFolder url="file://$MODULE_DIR$/StockQuoteIsolates/web/data/packages" />
       <excludeFolder url="file://$MODULE_DIR$/StockQuoteIsolates/web/packages" />
