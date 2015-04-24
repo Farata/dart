@@ -34,9 +34,9 @@ Future sendReceive(SendPort port, msg) {
 // this function will run in a separate isolate
 getStockNews(SendPort sendPort){
 
-  var stockNewsReceiverPort = new ReceivePort();  // to get msg from main
+  var stockNewsReceiverPort = new ReceivePort();  // to get msg from the main isolate
 
-  sendPort.send(stockNewsReceiverPort.sendPort);  // let the main know the port
+  sendPort.send(stockNewsReceiverPort.sendPort);  // let the main isolate know the port
 
   stockNewsReceiverPort.listen((message){
        var stockSymbol = message[0];
